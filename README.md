@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Khaerully Juanda
 
 🎓 Computer Science Student at **BINUS University**  
-🎮 Game Developer | 💻 Fullstack Developer | ⚙️ DevOps Enthusiast  
+🎮 Game Developer | 💻 Fullstack Developer | ⚙️ DevOps Enthusiast  | 🤖 AI & Machine Learning Enthusiast
 
 I’m passionate about building interactive experiences through **game development**, crafting scalable systems, and exploring the intersection between **`technology, design, and automation`**.
 
@@ -41,6 +41,14 @@ I’m passionate about building interactive experiences through **game developme
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
 
+### 🤖 Computer Vision & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+
 ### 🗄️ Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -51,7 +59,8 @@ I’m passionate about building interactive experiences through **game developme
 ## 📌 Highlight Projects
 - 👻 **Quite** — Horror game focusing on immersion & sound interaction  
 - 📦 **Tracking System** — Internal tracking app (Golang, React Native, PostgreSQL)  
-- ⚙️ **CI/CD Automation** — Jenkins & GitLab pipeline automation  
+- ⚙️ **CI/CD Automation** — Jenkins & GitLab pipeline automation
+- 💬 **ChatBot** 
 
 ---
 
