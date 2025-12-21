@@ -3,7 +3,7 @@
 🎓 Computer Science Student at **BINUS University**  
 🎮 Game Developer | 💻 Software Engineer | ⚙️ DevOps Enthusiast  
 
-I’m passionate about building interactive experiences through **game development**, crafting scalable systems, and exploring the intersection between **technology, design, and automation**.
+I’m passionate about building interactive experiences through **game development**, crafting scalable systems, and exploring the intersection between **`technology, design, and automation`**.
 
 ---
 
