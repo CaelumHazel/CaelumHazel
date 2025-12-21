@@ -27,6 +27,7 @@ I’m passionate about building interactive experiences through **game developme
 
 ### 🎮 Game Development
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat&logo=unreal-engine&logoColor=white)
 
 ### 🌐 Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -38,6 +39,12 @@ I’m passionate about building interactive experiences through **game developme
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
+
+### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
 ---
 
@@ -67,4 +74,6 @@ I’m passionate about building interactive experiences through **game developme
 
 ---
 
-⭐ *“Build systems, design experiences, and never stop learning.”*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Build+systems%2C+design+experiences%2C;and+never+stop+learning." />
+</p>
