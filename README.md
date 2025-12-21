@@ -70,20 +70,9 @@ I’m passionate about building interactive experiences through **game developme
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/CaelumHazel" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/khaerully-juanda-870964188/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/USERNAME" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" />
-  </a>
-</p>
-
+[![GitHub](https://img.shields.io/badge/GitHub-CaelumHazel-1f2335?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaelumHazel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khaerully%20Djuanda-1f2335?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/khaerully-juanda-870964188/)
+[![Instagram](https://img.shields.io/badge/Instagram-@USERNAME-1f2335?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/USERNAME)
 
 ---
 
