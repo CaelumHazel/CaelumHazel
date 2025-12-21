@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hi, I'm Khaerully Djuanda
 
-<!--
-**CaelumHazel/CaelumHazel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at **BINUS University**  
+🎮 Game Developer | 💻 Software Engineer | ⚙️ DevOps Enthusiast  
 
-Here are some ideas to get you started:
+I’m passionate about building interactive experiences through **game development**, crafting scalable systems, and exploring the intersection between **technology, design, and automation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🎮 Developing 2D & 3D games using **Unity**
+- 🧠 Interested in **Game Design, UI/UX, and AI**
+- ⚙️ Experienced with **CI/CD, Jenkins, Docker, Kubernetes**
+- ☁️ Hands-on with **AWS & cloud-based deployment**
+- 📚 Currently working on academic and personal projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Development
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+### 🎮 Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+
+### 🌐 Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📌 Highlight Projects
+- 👻 **Quite** — Horror game focusing on immersion & sound interaction  
+- 📦 **Tracking System** — Internal tracking app (Golang, React Native, PostgreSQL)  
+- ⚙️ **CI/CD Automation** — Jenkins & GitLab pipeline automation  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🌱 Currently Learning
+- Advanced **Kubernetes & Helm**
+- **System Design & Scalability**
+- Game mechanics & player experience research
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/USERNAME
+- Itch.io: https://itch.io/profile/USERNAME
+- LinkedIn: (optional)
+
+---
+
+⭐ *“Build systems, design experiences, and never stop learning.”*
