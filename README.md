@@ -72,7 +72,7 @@ I’m passionate about building interactive experiences through **game developme
 
 [![GitHub](https://img.shields.io/badge/GitHub-CaelumHazel-1f2335?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaelumHazel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khaerully%20Djuanda-1f2335?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/khaerully-juanda-870964188/)
-[![Instagram](https://img.shields.io/badge/Instagram-@USERNAME-1f2335?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-@USERNAME-1f2335?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/rullyjuandabdl)
 
 ---
 
