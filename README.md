@@ -61,7 +61,7 @@ I’m passionate about building interactive experiences through **game developme
 - 👻 **Quite** — Horror game focusing on immersion & sound interaction  
 - 📦 **Tracking System** — Internal tracking app (Golang, React Native, PostgreSQL)  
 - ⚙️ **CI/CD Automation** — Jenkins & GitLab pipeline automation
-- 💬 **ChatBot** 
+- 💬 **Campus ChatBot** — Chatbot for campus-related inquiries using **scikit-learn**, designed to assist students with general information and FAQs
 
 ---
 
