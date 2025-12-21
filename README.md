@@ -49,8 +49,8 @@ I’m passionate about building interactive experiences through **game developme
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaelumHazel&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaelumHazel&layout=compact&theme=tokyonight)
 
 ---
 
@@ -62,9 +62,8 @@ I’m passionate about building interactive experiences through **game developme
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/USERNAME
-- Itch.io: https://itch.io/profile/USERNAME
-- LinkedIn: (optional)
+- GitHub: https://github.com/CaelumHazel
+- LinkedIn: https://www.linkedin.com/in/khaerully-juanda-870964188/
 
 ---
 
