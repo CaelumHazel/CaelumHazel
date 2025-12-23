@@ -65,12 +65,6 @@ I’m passionate about building interactive experiences through **game developme
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaelumHazel&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaelumHazel&layout=compact&theme=tokyonight)
-
----
-
 ## 🌱 Currently Learning
 - Advanced **Kubernetes & Helm**
 - **System Design & Scalability**
