@@ -72,12 +72,6 @@ I’m passionate about building interactive experiences through **game developme
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaelumHazel&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaelumHazel&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-CaelumHazel-1f2335?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaelumHazel)
